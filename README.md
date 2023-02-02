@@ -1,7 +1,3 @@
- <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=transparent&&color=auto&height=300&section=header&text=Wellcome&fontSize=90&fontColor=d6ace6" />
-</div>
-
 <h3 align="center"><b>:raised_hands:About me:raised_hands:</b></h3>
  <div align=center>
   
@@ -17,7 +13,7 @@ Working in IT team on YoungPoong as SAP BC and Web programmer
 </br>
 <p align="center"><b>:bulb:used as main:bulb:</b>
 </br>
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp 
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Spring-brightgreen?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/mybatis-232F3E?style=flat-square&logo=%20AWS&logoColor=white"/></a> &nbsp </p>
